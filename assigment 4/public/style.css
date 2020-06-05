@@ -1,0 +1,209 @@
+*{
+color: black;
+}
+
+h1{
+    /* color: #FFB74D !important; */
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+
+}
+.navbar{
+
+    background-color:#263238 !important;
+}
+
+.nav-link{
+    color: #FFB74D !important;
+    font-weight: bold !important;
+}
+
+/* .navbar-brand{
+    width: 20px !important;
+    height: 20px !important;
+} */
+
+.fa-shopping-cart, .fa-user-circle-o {
+    font-size: 30px !important;
+    color: crimson;
+}
+
+.navbar{
+    position: sticky !important;
+    top: 0px !important;
+    /* bottom: 0px; */
+    z-index: 1;
+
+}
+
+.iac-centerbanner{
+    text-align: center;
+
+}
+
+.socialnetwork{
+    z-index: 1;
+    position: fixed;
+    /* left: 0px; */
+    top: 200px;
+}
+/* #carouselExampleCaptions{
+
+    margin-left: 50px;
+} */
+
+.fa-facebook-square{
+    color: #3b5998;
+    font-size: 25px ;
+    padding: 10px;
+
+}
+
+.fa-twitter{
+    color: #00acee;
+    font-size: 25px ;
+    padding: 10px;
+
+}
+
+.fa-google-plus{
+    color: #db4a39;
+    font-size: 25px ;
+    padding: 10px;
+
+}
+
+.fa-instagram{
+    color: #3f729b;
+    font-size: 25px ;
+    padding: 10px;
+
+}
+
+.fa-linkedin{
+    color: #0e76a8;
+    font-size: 25px ;
+    padding: 10px;
+
+}
+
+
+.fa-home,.fa-envelope,.fa-phone,.fa-mobile{
+    font-size: 20px ;
+    padding-right: 10px;
+    
+
+}
+
+
+
+/* for coupon */
+
+
+
+.fa-arrow-circle-up{
+    /* background-color: rgb(0, 0, 0); */
+    bottom: 15px;
+    font-size: 100px;
+    color: aliceblue;
+    position: fixed;
+    left: 90%;
+    bottom: 10%;
+    
+    
+    }
+
+
+.banner{
+    align-items: center;
+      margin: 40px;  
+    box-shadow: 20px 20px 20px skyblue;
+width: 95%;
+/* padding-left: 50px; */
+    
+}
+
+/* Container holding the image and the text */
+.container {
+    position: relative;
+    text-align: center;
+    color: black;
+  }
+
+  
+  /* Centered text */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 20px;
+    
+  }
+    
+img:hover{
+        color: rosybrown;
+    }
+    
+
+.container-1{
+    /* background-color: #FFB74D; */
+    border: 5px solid #FFB74D;
+    justify-content: space-around;
+    margin: 0 auto;
+    width: 70%;
+    height: 40%;
+}
+
+.img-fluid{
+    width: 100% !important;
+    /* margin: 20px; */
+    height: 100%;
+    margin: 0px;
+    box-shadow: 10px 10px 30px #FFB74D;
+    
+    /* padding: 20px; */
+}
+
+
+.imagesale{
+    width:100%;
+    box-shadow: 10px 10px 30px #FFB74D;
+
+}
+
+.heading > h1{
+    text-shadow: 2px 2px 6px #db4a39;
+}
+.card-img{
+    height: 250px;
+    width: 250px;
+    
+}
+
+.btn-primary {
+    background-color: #FFB74D !important;
+    color: black;
+    /* border-radius: 15%; */
+    
+}
+
+.btn-primary:hover{
+    background-color: skyblue;
+
+}
+
+.card-body{
+    text-align: end;
+}
+
+.card-cart{
+    margin: 100px;
+}
+
+
+.image-about{
+    width: 100%;
+}
